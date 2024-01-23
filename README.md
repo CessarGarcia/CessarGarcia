@@ -22,9 +22,7 @@
 
 >[!NOTE] 
 >Hello! I am a Full Stack developer with over 3 years of experience. Originally from Monterrey, Mexico where I earned my degree in Computer Science, laying a solid foundation for my journey in the technology world.
-
 I am passionate about creating innovative applications that not only meet but exceed expectations. I constantly improve my knowledge and skills to stay up to date on trends in the technology industry. I believe in the power of technology to transform ideas into reality and I am dedicated to contributing my skills to create impactful applications. 
-
 Let's collaborate and turn your project into reality!
 
 <br />
