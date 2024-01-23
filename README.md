@@ -7,6 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=CessarGarcia&style=flat-square&color=blue" alt="Profile Views" align="left"/>
 
 <br />
+<br />
 
 🔗 &nbsp;**📱Connect with Me**
 <p align="left">
@@ -14,21 +15,21 @@
 <a href="https://twitter.com/cessargarcia/" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg" alt="gautamkrishnar" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/cessargarcia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-
+<br />
 <br />
 
 🔗 &nbsp;**✨About Me**
 
 >[!NOTE] 
 >Hello! I am a Full Stack developer with over 3 years of experience. Originally from Monterrey, Mexico where I earned my degree in Computer Science, laying a solid foundation for my journey in the technology world.
-<br />
-<br />
+
 I am passionate about creating innovative applications that not only meet but exceed expectations. I constantly improve my knowledge and skills to stay up to date on trends in the technology industry. I believe in the power of technology to transform ideas into reality and I am dedicated to contributing my skills to create impactful applications. 
-<br />
-<br />
+
 Let's collaborate and turn your project into reality!
 
 <br />
+<br />
+
 
 🔗 &nbsp;**📊GitHub stats**
 
