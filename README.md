@@ -1,13 +1,5 @@
 # <img src="https://i.ibb.co/h95tRYv/gatito-developer.gif" alt="gatito-developer" width="100" style="padding-right:20px;" border="0" /> Hello World, I'm Céssar García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-🔗 &nbsp;**Banner**
-
-![Banner](https://i.ibb.co/q1HVHdP/Professional-Linked-In-Banner-2.png)
-<br >
-<img src="https://komarev.com/ghpvc/?username=CessarGarcia&style=flat-square&color=blue" alt="Profile Views" align="left"/>
-
-<br />
-<br />
 
 🔗 &nbsp;**📱Connect with Me**
 <p align="left">
@@ -25,6 +17,7 @@
 I am passionate about creating innovative applications that not only meet but exceed expectations. I constantly improve my knowledge and skills to stay up to date on trends in the technology industry. I believe in the power of technology to transform ideas into reality and I am dedicated to contributing my skills to create impactful applications. 
 Let's collaborate and turn your project into reality!
 
+<img src="https://komarev.com/ghpvc/?username=CessarGarcia&style=flat-square&color=blue" alt="Profile Views" align="left"/>
 <br />
 <br />
 
